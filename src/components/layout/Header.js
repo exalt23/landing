@@ -10,7 +10,7 @@ const Header = () => (
         <div className="w-12 mr-3">
           <exalt-logo />
         </div>
-        Lander
+        Lander1
       </div>
       <div className="flex mt-4 sm:mt-0">
         <AnchorLink className="px-4" href="#features">
