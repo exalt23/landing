@@ -19,8 +19,7 @@ export default () => (
             Main title of your landing page
           </h1>
           <p className="text-xl lg:text-2xl mt-6 font-light">
-            Free landing page template to promote your business startup and generate leads for the
-            offered services
+            We're a web development agency in Montreal.
           </p>
           <p className="mt-8 md:mt-12">
             <Button size="lg">Get Started</Button>
