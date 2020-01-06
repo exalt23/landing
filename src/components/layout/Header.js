@@ -1,7 +1,7 @@
 import React from 'react';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
-import LogoIcon from '../../svg/exalt-logo';
 import Button from '../Button';
+import Svg from '/src/svg/'
 
 const Header = () => (
   <header className="sticky top-0 bg-white shadow">
@@ -10,7 +10,7 @@ const Header = () => (
         <div className="w-12 mr-3">
           <exalt-logo />
         </div>
-        Lander1
+        <img src="/src/svg/exalt.svg">
       </div>
       <div className="flex mt-4 sm:mt-0">
         <AnchorLink className="px-4" href="#features">
